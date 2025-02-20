@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Привет! Я Алиса Гафарова  
 
-<!--
-**alisagafarova/alisagafarova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Frontend Developer** | TypeScript, React, Next.js  
+📍 Дублин, Ирландия  
 
-Here are some ideas to get you started:
+### 🔥 Навыки
+- **Frontend:** React, Next.js, TypeScript, Redux, Tailwind  
+- **Backend:** Node.js, Express, MongoDB  
+- **Тестирование:** Jest, Cypress  
+- **DevOps:** Docker, GitHub Actions  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Закреплённые проекты
+[🔗 AIST — образовательная платформа](https://github.com/alisagafarova/aist-frontend)  
+[🍔 Stellar Burgers — заказ бургеров](https://github.com/alisagafarova/react-burger)  
+
+### 📫 Контакты
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/alisagafarova)  
+[📧 Email: твой@email.com](gafarova011094@gmail.com)
