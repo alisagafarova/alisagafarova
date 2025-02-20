@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Alisa Gafarova  
 
-🚀 **Frontend Developer** | JavaScript, TypeScript, React, Next.js  
+🚀 **Frontend Developer** | JavaScript, TypeScript, React, Redux, Node.js
 📍 Dublin, Ireland  
 
 ### 🔥 About Me  
@@ -9,7 +9,7 @@ Previously worked as a Network Engineer, automating infrastructure with Python.
 Passionate about UI/UX, scalable web apps, and continuous learning.  
 
 ### 💻 Tech Stack  
-- **Frontend:** JavaScript, TypeScript, React, Next.js, Redux  
+- **Frontend:** JavaScript, TypeScript, React, Redux  
 - **Backend:** Node.js, Express, MongoDB, Docker  
 - **Other:** Python, Git, CI/CD, Networking (Cisco, Juniper)  
 
