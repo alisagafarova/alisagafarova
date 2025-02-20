@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Alisa Gafarova  
 
 🚀 **Frontend Developer** | JavaScript, TypeScript, React, Redux, Node.js
+
 📍 Dublin, Ireland  
 
 ### 🔥 About Me  
