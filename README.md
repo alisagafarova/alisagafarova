@@ -16,7 +16,10 @@ Passionate about UI/UX, scalable web apps, and continuous learning.
 
 ### 📌 Projects  
 - **[Stellar Burgers](https://github.com/alisagafarova/react-burger)** – Burger ordering app (React, Redux, TypeScript).  
-- **[AIST – Educational Platform](https://github.com/alisagafarova/aist-frontend)** – Full-stack app (Next.js, MongoDB, Auth).  
+- **[AIST – Educational Platform](https://github.com/alisagafarova/aist-frontend)** – Full-stack app (Next.js, MongoDB, Auth).
+- **[Weather App](https://github.com/alisagafarova/weather)** – Weekly weather forecast using OpenWeather API.
+- **[Travel Across Russia](https://github.com/alisagafarova/russian-travel-bootcamp)** – Project work from Yandex Practicum about traveling across Russia.
+
 
 ### 🎓 Education & Certifications  
 - **MSc in Infocommunication Technologies** – Tomsk University of Radioelectronics  
