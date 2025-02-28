@@ -11,7 +11,7 @@ Passionate about UI/UX, scalable web apps, and continuous learning.
 
 ### 💻 Tech Stack  
 - **Frontend:** JavaScript, TypeScript, React, Redux  
-- **Backend:** Node.js, Express, MongoDB, Docker  
+- **Backend:** Node.js, MongoDB, Docker  
 - **Other:** Python, Git, CI/CD, Networking (Cisco, Juniper)  
 
 ### 📌 Projects  
